@@ -8,3 +8,9 @@
 7. [**도영이가 만든 맛있는 음식**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.4.24/2961.cpp)
 
 # 5/1
+- [**가장 긴 증가하는 부분 수열 3**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.01/12738.cpp)
+- [**휴게소 세우기**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.01/1477.cpp)
+- [**공유기 설치**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.01/2110.cpp)
+- [**숫자 카드**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.01/10815.cpp)
+- [**나무 자르기**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.01/2805.cpp)
+- [**LCS 4**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.01/13711.cpp)

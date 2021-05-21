@@ -32,10 +32,10 @@
 - [**가장 큰 정사각형**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.16/1915.cpp)
 
 # 5/22
-- [**찾기**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/1786)
-- [**전화번호 목록**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/5052)
-- [**뒤집힌 계산기**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/20129)
-- [**회문은 회문아니야!!**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/15927)
-- [**추월**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/2002)
-- [**개미굴**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/14725)
+- [**찾기**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/1786.cpp)
+- [**전화번호 목록**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/5052.cpp)
+- [**뒤집힌 계산기**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/20129.cpp)
+- [**회문은 회문아니야!!**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/15927.cpp)
+- [**추월**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/2002.cpp)
+- [**개미굴**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/14725.cpp)
 

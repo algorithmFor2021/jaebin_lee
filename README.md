@@ -39,3 +39,10 @@
 - [**추월**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/2002.cpp)
 - [**개미굴**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.22/14725.cpp)
 
+# 5/29
+- [**작업**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/2056.cpp)
+- [**음식물피하기**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/1743.cpp)
+- [**도시 분할 계획**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/1647.cpp)
+- [**녹색 옷 입은 애가 젤다지?**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/4485.cpp)
+- [**최소비용 구하기 2**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/11779.cpp)
+- [**네트워크 연결**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/1922.cpp)

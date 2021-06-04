@@ -46,3 +46,11 @@
 - [**녹색 옷 입은 애가 젤다지?**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/4485.cpp)
 - [**최소비용 구하기 2**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/11779.cpp)
 - [**네트워크 연결**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.05.29/1922.cpp)
+
+# 6/5
+- [**소수의 연속합**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.06.05/1644.cpp)
+- [**여행가자**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.06.05/1976.cpp)
+- [**개똥벌레**]
+- [**강의실 배정**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.06.05/11000.cpp)
+- [**외판원 순회**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.06.05/2098.cpp)
+- [**회의준비**](https://github.com/algorithmFor2021/jaebin_lee/blob/main/2021.06.05/2610.cpp)
